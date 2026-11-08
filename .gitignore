@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.pytest_cache/
+.DS_Store
+*.log
+# Large / personal files
+*.mp4
+*.zip
+# LaTeX build files
+docs/report/*.aux
+docs/report/*.log
+docs/report/*.out
+docs/report/*.synctex.gz
